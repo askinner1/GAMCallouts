@@ -1,0 +1,11 @@
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Release\GAMCallouts.csproj.AssemblyReference.cache
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Release\GAMCallouts.csproj.CoreCompileInputs.cache
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\GAMCallouts.net.dll
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\GAMCallouts.net.pdb
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\CitizenFX.Core.Client.dll
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\FivePD.net.dll
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\CitizenFX.Core.Client.xml
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\bin\Release\FivePD.net.xml
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Release\GAMCallouts.csproj.CopyComplete
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Release\GAMCallouts.net.dll
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Release\GAMCallouts.net.pdb

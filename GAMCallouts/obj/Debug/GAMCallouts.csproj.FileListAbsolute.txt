@@ -1,0 +1,2 @@
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Debug\GAMCallouts.csproj.AssemblyReference.cache
+C:\Users\Adam Skinner\RiderProjects\GAMCallouts\GAMCallouts\obj\Debug\GAMCallouts.csproj.CoreCompileInputs.cache
